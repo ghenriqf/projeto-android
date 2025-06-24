@@ -4,6 +4,10 @@ Este é um projeto desenvolvido durante o curso de **HTML5 e CSS3** do canal [Cu
 
 ---
 
+Acesse o projeto online: [Clique aqui para ver o site](https://ghenriqf.github.io/projeto-android/)
+
+---
+
 ## Conteúdo abordado
 
 Neste projeto, foram utilizados os seguintes conceitos:
