@@ -1,14 +1,43 @@
-# Site sobre o Android
+# Projeto Android
 
-Este projeto foi desenvolvido como parte de um desafio do curso de HTML5 e CSS3 do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
+Este é um projeto desenvolvido durante o curso de **HTML5 e CSS3** do canal [Curso em Vídeo](https://www.youtube.com/CursoemVideo), ministrado pelo professor Gustavo Guanabara. O objetivo foi praticar os conceitos aprendidos construindo uma página web responsiva e semântica sobre a história do mascote do sistema Android.
 
-O objetivo do desafio é criar uma página simples com informações sobre o sistema operacional Android, aplicando os conceitos básicos de HTML e CSS.
+---
 
-## Tecnologias utilizadas
+## Conteúdo abordado
 
-- HTML5
-- CSS3
+Neste projeto, foram utilizados os seguintes conceitos:
 
-## Finalidade
+- Estrutura básica HTML
+- Tags semânticas (`<header>`, `<main>`, `<section>`, `<article>`, `<footer>`, etc.)
+- Estilização com CSS
+- Importação de fontes do Google Fonts
+- Utilização de imagens e vídeos
+- Responsividade básica
+- Criação de um layout simples, limpo e funcional
 
-Este projeto tem fins educacionais e foi criado como prática dos conhecimentos adquiridos no curso.
+---
+
+##  Prints do projeto
+
+### Página inicial
+
+![Print 1](print1.png)
+
+---
+
+### Conteúdo sobre o mascote
+
+![Print 2](print2.png)
+
+---
+
+### Versões do Android
+
+![Print 3](print3.png)
+
+---
+
+## Créditos
+
+Projeto realizado durante as aulas do [Curso em Vídeo](https://www.cursoemvideo.com/), com orientação de **Gustavo Guanabara**.
