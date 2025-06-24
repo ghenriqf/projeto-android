@@ -22,19 +22,19 @@ Neste projeto, foram utilizados os seguintes conceitos:
 
 ### Página inicial
 
-![Print 1](print1.png)
+![Print 1](prints/print1.png)
 
 ---
 
 ### Conteúdo sobre o mascote
 
-![Print 2](print2.png)
+![Print 2](prints/print2.png)
 
 ---
 
 ### Versões do Android
 
-![Print 3](print3.png)
+![Print 3](prints/print3.png)
 
 ---
 
